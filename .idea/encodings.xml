@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/libin/ALS_recommend.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/libin/tmp_naive_bayes.scala" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
