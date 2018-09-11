@@ -4,7 +4,7 @@
 
 * knn
 * Naive Bayes
-* lr
+* [lr](lr)
 * svm
 * random forest
 * xgboost
