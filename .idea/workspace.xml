@@ -229,7 +229,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
@@ -318,7 +318,7 @@
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536399617953" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/scala/com/libin" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -350,7 +350,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dl">
+  <component name="RunManager" selected="Python.dl (1)">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -561,6 +561,11 @@
       <item itemvalue="Application.test" />
       <item itemvalue="Application.test (1)" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dl (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ScalaProjectSettings">
     <option name="ignorePerformance" value="true" />
