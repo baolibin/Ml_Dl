@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ff10f21-109d-409c-a1e0-f271eefb5343" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mldl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mldl.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/doc/分布.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/doc/分布.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -148,7 +146,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/doc/分布.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="496">
+              <first_editor relative-caret-position="439">
                 <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
               </first_editor>
               <second_editor />
@@ -339,7 +337,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547363185836" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547373298301" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/scala/com/libin" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -611,19 +609,25 @@
       <option name="project" value="LOCAL" />
       <updated>1547345059690</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1547363210834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547363210834</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.22541603" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22541603" />
       <window_info anchor="bottom" id="DB Execution Console" order="0" />
       <window_info anchor="bottom" id="Console" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
@@ -805,7 +809,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/doc/分布.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="496">
+          <first_editor relative-caret-position="439">
             <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
           </first_editor>
           <second_editor />
