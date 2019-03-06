@@ -1,7 +1,8 @@
 
 ## 基础知识
-* ROC、AUC
+* [ROC、AUC](src/main/doc/ROC与AUC.md)
 * 梯度下降
+* [数据分布](src/main/doc/分布.md)
 
 
 ## 机器学习
